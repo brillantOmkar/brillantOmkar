@@ -1,0 +1,17 @@
+{
+    "Comment1":" Test Case 1 data ",
+
+    "username":"luffy@marine.com",
+    "password":"GomuGomu",
+    "username1":"abcdluffy@marine.com",
+    "password1":"HELLOabcd",
+
+    "Comment2":" Test Case 2 data ",
+    "testId":"TC1",
+    "Myname":"Mandar",
+
+    
+    "Comment3":" Test Case 3 data ",
+    "Amruta":"Sonali1",
+    "Omkar":"Sonali2"
+ }
